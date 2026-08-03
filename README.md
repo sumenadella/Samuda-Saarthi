@@ -1,4 +1,4 @@
-# 🌊 Samudra Saarthi - Coastal Tourism Safety App (SIH Problem Statement- 1656)
+# 🌊 Samudra Saarthi - Coastal Tourism Safety App 
 
 
 Welcome to **Samudra Saarthi**, a mobile application aimed at ensuring a safe and enjoyable coastal tourism experience for everyone! 🏖️
